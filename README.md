@@ -24,3 +24,8 @@ Este projeto apresenta uma proposta de inovação para trenas eletrônicas, foca
 - F. C. Souza
 - M. Gotardo
 - R. M. Kagami (Orientador)
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
